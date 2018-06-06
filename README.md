@@ -176,15 +176,3 @@ _____________
 .Xip
 .Postgresql
 .flask
-
-* After finish running project.py you can use your favorite browser to visit [this link](http://localhost:8000/)
-
-### How to use
-* You can browse through the website to find out the different categories of movies.
-> [![Image](gif/catalog1.gif)](Image)
-* You can also create you own items after you login.
-> [![Image](gif/catalog2.gif)](Image)
-* Only the users who created the item have the ability to post, edit, and delete it.
-> [![Image](gif/catalog3.gif)](Image)
-* Once you log out. You can lost your right to change it.
-> [![Image](gif/catalog4.gif)](Image)
